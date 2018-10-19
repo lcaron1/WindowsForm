@@ -17,6 +17,15 @@ le développement  tourne autour de 3 grandes parties
 2.développement du jeu en lui même permettant l'exploration d'un labyrinthe
 3.la sauvegrade des personnages et du contexte du jeu
 
+
+Composant graphique:
+-Bouton New() : Création d'une nouvelle fenêtre.
+-Bouton Close() : Ferme la fenêtre.
+-Bouton show() : Affichage de la fenêtre.
+-Bouton Hide() : Création d'une nouvelle fenêtre.
+-Bouton ShowDialog() : Cacher la fenêtre.
+-ListBox() : Recupère le nom des fenêtre crée.
+
 |**développement**|**langages**|**technique de programmation**|
 |-----------------|------------|------------------------------|
 |inscription en ligne|php, Mysql|developpemnt web MVC avec code igniter|
