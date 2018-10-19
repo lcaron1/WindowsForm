@@ -32,22 +32,3 @@ Composant graphique:
 |sio crawler le jeu|C#|programmation objet, tests unitaires|
 |sauvegarde du contexte|C#,mysql|programmation procédural procédures stockées en mysql|
 
-## L'inscription en ligne. ##
-
-site web permettant à un joueur de s'inscrire en ligne le projet prévoit le principe suivant pour l'inscription en ligne
-
-![acteurFluxInscription.png](http://image.noelshack.com/fichiers/2018/37/3/1536761964-acteurfluxinscription.png)
-
-## sio crawler le jeu ##
-
-le joueur possèdera les fonctionnalités suivantes.
-![useCasePersonnage.png](https://image.noelshack.com/fichiers/2018/37/3/1536762099-usecasepersonnage.png)
-
-les classes développées.
-
-![diagrammeClassePersonnage.png](http://image.noelshack.com/fichiers/2018/37/3/1536762094-diagrammeclassepersonnage.png)
-
-## Sauvegarde du contexte ##
-
-La sauvegarde du contexte se fera dans la base de données.
-![mcdSauvegarde.png](http://image.noelshack.com/fichiers/2018/37/3/1536762097-mcdsauvegarde.png)
