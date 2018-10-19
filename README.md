@@ -8,7 +8,7 @@ Les outils mes en oeuvre :
 * git.
 * Visual studio.
 * WindowsFrom.
-* Windows Csharp.
+* C#.
 
 
 le développement  tourne autour de 3 grandes parties
