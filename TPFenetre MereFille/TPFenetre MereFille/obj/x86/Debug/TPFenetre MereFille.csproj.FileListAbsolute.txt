@@ -1,0 +1,9 @@
+U:\SIO2\SLAM4\TPFenetre MereFille\TPFenetre MereFille\bin\Debug\TPFenetre MereFille.exe
+U:\SIO2\SLAM4\TPFenetre MereFille\TPFenetre MereFille\bin\Debug\TPFenetre MereFille.pdb
+U:\SIO2\SLAM4\TPFenetre MereFille\TPFenetre MereFille\obj\x86\Debug\TPFenetre_MereFille.FFille.resources
+U:\SIO2\SLAM4\TPFenetre MereFille\TPFenetre MereFille\obj\x86\Debug\TPFenetre_MereFille.FMere.resources
+U:\SIO2\SLAM4\TPFenetre MereFille\TPFenetre MereFille\obj\x86\Debug\TPFenetre_MereFille.Properties.Resources.resources
+U:\SIO2\SLAM4\TPFenetre MereFille\TPFenetre MereFille\obj\x86\Debug\TPFenetre MereFille.csproj.GenerateResource.Cache
+U:\SIO2\SLAM4\TPFenetre MereFille\TPFenetre MereFille\obj\x86\Debug\TPFenetre MereFille.exe
+U:\SIO2\SLAM4\TPFenetre MereFille\TPFenetre MereFille\obj\x86\Debug\TPFenetre MereFille.pdb
+U:\SIO2\SLAM4\TPFenetre MereFille\TPFenetre MereFille\obj\x86\Debug\TPFenetre MereFille.csprojResolveAssemblyReference.cache
