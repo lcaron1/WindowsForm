@@ -19,12 +19,12 @@ le développement  tourne autour de 3 grandes parties
 
 
 Composant graphique:
--Bouton New() : Création d'une nouvelle fenêtre.
--Bouton Close() : Ferme la fenêtre.
--Bouton show() : Affichage de la fenêtre.
--Bouton Hide() : Création d'une nouvelle fenêtre.
--Bouton ShowDialog() : Cacher la fenêtre.
--ListBox() : Recupère le nom des fenêtre crée.
+1. -Bouton New() : Création d'une nouvelle fenêtre.
+2. -Bouton Close() : Ferme la fenêtre.
+3. -Bouton show() : Affichage de la fenêtre.
+4. -Bouton Hide() : Création d'une nouvelle fenêtre.
+5. -Bouton ShowDialog() : Cacher la fenêtre.
+6. -ListBox() : Recupère le nom des fenêtre crée.
 
 |**développement**|**langages**|**technique de programmation**|
 |-----------------|------------|------------------------------|
